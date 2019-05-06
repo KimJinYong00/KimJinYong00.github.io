@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Be a good programmer"
   image:
