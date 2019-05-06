@@ -1,0 +1,1 @@
+{% for post in site.categories.articles %} {% include post-grid.html %} {% endfor %}
