@@ -1,1 +1,1 @@
-{% for post in site.categories.articles %} {% include post-grid.html %} {% endfor %}
+{% for post in site.categories.project %} {% include post-grid.html %} {% endfor %}
